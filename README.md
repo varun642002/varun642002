@@ -266,23 +266,11 @@ better at presenting the work itself.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=varun642002&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39D353&icon_color=2F81F7&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api?username=varun642002&show_icons=true&hide_border=true&count_private=true&title_color=1f7a3f&icon_color=2F81F7" alt="Varun's GitHub stats: repositories, stars, commits and contributions" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=varun642002&layout=compact&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun642002&layout=compact&hide_border=true&title_color=1f7a3f" alt="Varun's most-used languages by repository" height="165" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&ring=1f7a3f&fire=1f7a3f&currStreakLabel=1f7a3f" alt="Varun's GitHub contribution streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&ring=1f7a3f&fire=1f7a3f&currStreakLabel=1f7a3f" alt="Varun's GitHub contribution streak: total contributions, current streak and longest streak" width="90%" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=varun642002&no-frame=true&no-bg=true&theme=algolia&column=4&margin-w=8&margin-h=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=varun642002&no-frame=true&no-bg=true&theme=flat&column=4&margin-w=8&margin-h=8" alt="Varun's GitHub trophies" width="90%" />
-</picture>
+<sub>Full contribution graph is on the profile page itself, right below this README.</sub>
 
 </div>
 
