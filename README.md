@@ -17,9 +17,17 @@ the system that acts on it.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun64200/)
 [![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun642002)
 
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varun642002/varun642002/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varun642002/varun642002/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/varun642002/varun642002/output/snake.svg" alt="Animated snake eating through Varun's real GitHub contribution graph" width="100%" />
+</picture>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
@@ -32,7 +40,7 @@ the system that acts on it.
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## What I Build
 
@@ -73,7 +81,7 @@ The same product as a web dashboard, a native mobile app, and the CI pipeline th
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Featured Projects
 
@@ -194,7 +202,7 @@ this surfaces the trend early enough for HR to act on it.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Tech Stack
 
@@ -215,7 +223,7 @@ this surfaces the trend early enough for HR to act on it.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Development Journey
 
@@ -237,7 +245,7 @@ place — which is where IGNYT Coach came from. The iOS build and this portfolio
 the most recent step: making the same product work as a native app, and getting
 better at presenting the work itself.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Currently Building
 
@@ -248,7 +256,7 @@ better at presenting the work itself.
 └── This portfolio  — a "telemetry" themed site, instrument-dial signature interaction
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Engineering Philosophy
 
@@ -259,7 +267,7 @@ better at presenting the work itself.
 | 🧩 | **Keep the pieces separable.** IGNYT Coach and the IGNYT consumer app are two repos with one HTTP contract between them, on purpose — each can change without breaking the other. |
 | 🚀 | **Ship the whole path.** A dashboard, a backend, a mobile client, and the CI that deploys it — the project isn't done until the last mile works too. |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## GitHub Activity
 
@@ -274,7 +282,7 @@ better at presenting the work itself.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
 <div align="center">
 
