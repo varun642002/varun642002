@@ -47,32 +47,32 @@ the system that acts on it.
 <table>
 <tr>
 <td width="25%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:39D353&height=60&section=header&text=🖥️%20FULL-STACK&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Full-stack products" />
 
-### 🖥️
 **Full-stack products**
 
 End-to-end apps with a real backend, a real database, and a UI people actually use — not just prototypes.
 
 </td>
 <td width="25%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=60&section=header&text=📊%20DATA%20%26%20BI&fontSize=15&fontColor=161615&fontAlignY=55&animation=fadeIn" width="100%" alt="Data analytics and BI" />
 
-### 📊
 **Data analytics & BI**
 
 Dashboards that turn raw datasets — sales, HR, public health — into decisions, with SQL, DAX and Power BI.
 
 </td>
 <td width="25%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=60&section=header&text=🤖%20AI-ASSISTED&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="AI-assisted analytics" />
 
-### 🤖
 **AI-assisted analytics**
 
 Workspaces that automate the repetitive parts of data work — profiling, cleaning, EDA — so analysis starts faster.
 
 </td>
 <td width="25%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F05138,100:FFB86C&height=60&section=header&text=📱%20CROSS-PLATFORM&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Cross-platform delivery" />
 
-### 📱
 **Cross-platform delivery**
 
 The same product as a web dashboard, a native mobile app, and the CI pipeline that ships it.
@@ -86,6 +86,11 @@ The same product as a web dashboard, a native mobile app, and the CI pipeline th
 ## Featured Projects
 
 <table>
+<tr>
+<td colspan="3">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:39D353&height=90&section=header&text=IGNYT%20COACH&fontSize=28&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%" alt="IGNYT Coach" />
+</td>
+</tr>
 <tr>
 <td width="8%" align="center"><img src="https://img.shields.io/badge/01-0f2027?style=for-the-badge" alt="01" /></td>
 <td width="52%">
@@ -107,8 +112,16 @@ communication in one system with real role separation between owner/trainer/assi
 `Python` `FastAPI` `PostgreSQL`
 `Next.js 15` `TypeScript` `Docker`
 
-[**🔗 Live**](https://ignyt-coach.vercel.app) · [**📦 Repo**](https://github.com/varun642002/ignyt-coach)
+[**📦 Repo**](https://github.com/varun642002/ignyt-coach)
 
+<sub>Live demo is currently offline between deploys — repo has the full architecture.</sub>
+
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td colspan="3">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=90&section=header&text=AI-DATA-ANALYTICS-WORKSPACE&fontSize=22&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%" alt="Ai Data Analytics Workspace" />
 </td>
 </tr>
 <tr>
@@ -130,8 +143,16 @@ of notebooks and scripts.
 
 `TypeScript` `Python` `SQL`
 
-[**🔗 Live**](https://ai-data-analytics-workspace.vercel.app) · [**📦 Repo**](https://github.com/varun642002/Ai-Data-Analytics-workspace)
+[**📦 Repo**](https://github.com/varun642002/Ai-Data-Analytics-workspace)
 
+<sub>Live demo is currently offline between deploys — repo has the full source.</sub>
+
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td colspan="3">
+<img src="https://ignytfit.in/opengraph-image?f0472d49088eb765" width="100%" alt="IGNYT app — transform your fitness journey: workouts, nutrition, fasting, hydration and Health Connect in one app" />
 </td>
 </tr>
 <tr>
@@ -139,7 +160,7 @@ of notebooks and scripts.
 <td>
 
 **[IGNYT](https://github.com/varun642002/IGNYTfit.in)**
-The consumer side of IGNYT — a Next.js web app paired with a native **[iOS build](https://github.com/varun642002/Ignyt-ios)**
+The consumer side of IGNYT — a fitness & nutrition tracker (Next.js web app) paired with a native **[iOS build](https://github.com/varun642002/Ignyt-ios)**
 (Swift, HealthKit integration, Codemagic CI) that mirrors programmes assigned by a coach.
 
 *Why it matters:* a trainer's plan is only useful if the client can actually follow it
@@ -152,8 +173,14 @@ from their phone, with health data feeding back into the loop.
 
 `Next.js` `TypeScript` `Swift` `HealthKit`
 
-[**🔗 Live**](https://igny-tfit-in.vercel.app) · [**📦 Web**](https://github.com/varun642002/IGNYTfit.in) · [**📦 iOS**](https://github.com/varun642002/Ignyt-ios)
+[**🔗 Live**](https://ignytfit.in) · [**📦 Web**](https://github.com/varun642002/IGNYTfit.in) · [**📦 iOS**](https://github.com/varun642002/Ignyt-ios)
 
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td colspan="3">
+<img src="https://github.com/user-attachments/assets/b4fec4af-a522-416d-a67a-bbe307efcd38" width="100%" alt="Olist E-Commerce executive dashboard in Power BI showing revenue, orders, customers and top categories" />
 </td>
 </tr>
 <tr>
@@ -176,6 +203,12 @@ into a schema, writing DAX measures, and presenting it for execs, sales and cust
 
 [**📦 Repo**](https://github.com/varun642002/Olist-Ecommerce-Sales-Analysis-powerbi)
 
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td colspan="3">
+<img src="https://github.com/user-attachments/assets/c9671982-862f-4d71-abce-755658110752" width="100%" alt="HR workforce executive dashboard in Power BI showing headcount, attrition rate and satisfaction KPIs" />
 </td>
 </tr>
 <tr>
