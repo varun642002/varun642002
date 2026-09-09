@@ -298,12 +298,36 @@ better at presenting the work itself.
 
 ## Engineering Philosophy
 
-| | |
-|:---:|---|
-| ⚙️ | **Build for a real user, not a resume line.** IGNYT Coach exists because trainers actually run their business across five disconnected tools — that's the problem, not "learn FastAPI." |
-| 📈 | **Instrument before you optimize.** Coming from BI, I default to looking at the actual data/behavior before guessing at a fix. |
-| 🧩 | **Keep the pieces separable.** IGNYT Coach and the IGNYT consumer app are two repos with one HTTP contract between them, on purpose — each can change without breaking the other. |
-| 🚀 | **Ship the whole path.** A dashboard, a backend, a mobile client, and the CI that deploys it — the project isn't done until the last mile works too. |
+<table>
+<tr>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:39D353&height=70&section=header&text=⚙️%20BUILD%20FOR%20REAL%20USERS&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Build for a real user, not a resume line" />
+
+**Not a resume line.** IGNYT Coach exists because trainers actually run their business across five disconnected tools — that's the problem, not "learn FastAPI."
+
+</td>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=70&section=header&text=📈%20INSTRUMENT%20FIRST&fontSize=18&fontColor=161615&fontAlignY=55&animation=fadeIn" width="100%" alt="Instrument before you optimize" />
+
+**Before you optimize.** Coming from BI, I default to looking at the actual data/behavior before guessing at a fix.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=70&section=header&text=🧩%20KEEP%20IT%20SEPARABLE&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Keep the pieces separable" />
+
+**Loosely coupled, on purpose.** IGNYT Coach and the IGNYT consumer app are two repos with one HTTP contract between them — each can change without breaking the other.
+
+</td>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F05138,100:FFB86C&height=70&section=header&text=🚀%20SHIP%20THE%20WHOLE%20PATH&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Ship the whole path" />
+
+**Not just the demo.** A dashboard, a backend, a mobile client, and the CI that deploys it — the project isn't done until the last mile works too.
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
