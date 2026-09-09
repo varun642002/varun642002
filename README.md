@@ -335,12 +335,22 @@ better at presenting the work itself.
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:39D353&height=90&section=header&text=📡%20GITHUB%20ACTIVITY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Live%20numbers%2C%20pulled%20straight%20from%20the%20GitHub%20API&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="GitHub Activity" />
+
+<br /><br />
+
+![Followers](https://img.shields.io/github/followers/varun642002?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=161b22&color=39D353)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarun642002&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=2F81F7)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarun642002&query=%24.following&label=FOLLOWING&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=8A5CF6)
+
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&ring=1f7a3f&fire=1f7a3f&currStreakLabel=1f7a3f" alt="Varun's GitHub contribution streak: total contributions, current streak and longest streak" width="90%" />
 </picture>
 
-<sub>Full contribution graph is on the profile page itself, right below this README.</sub>
+<sub>The full contribution graph — and the animated snake above eating through it — reflect this same live data.</sub>
 
 </div>
 
