@@ -46,36 +46,41 @@ the system that acts on it.
 
 <table>
 <tr>
-<td width="25%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:39D353&height=60&section=header&text=🖥️%20FULL-STACK&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Full-stack products" />
-
-**Full-stack products**
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:39D353&height=110&section=header&text=🖥️%20FULL-STACK%20PRODUCTS&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=IGNYT%20Coach%20·%20IGNYT%20app&descAlignY=68&descSize=14&animation=fadeIn" width="100%" alt="Full-stack products" />
 
 End-to-end apps with a real backend, a real database, and a UI people actually use — not just prototypes.
 
-</td>
-<td width="25%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=60&section=header&text=📊%20DATA%20/%20BI&fontSize=15&fontColor=161615&fontAlignY=55&animation=fadeIn" width="100%" alt="Data analytics and BI" />
+[![IGNYT Coach](https://img.shields.io/badge/IGNYT_Coach-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/ignyt-coach)
+[![IGNYT](https://img.shields.io/badge/IGNYT-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/IGNYTfit.in)
 
-**Data analytics & BI**
+</td>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=110&section=header&text=📊%20DATA%20ANALYTICS%20/%20BI&fontSize=22&fontColor=161615&fontAlignY=38&desc=Olist%20·%20HR%20Workforce%20·%20COVID-19&descAlignY=68&descSize=14&descColor=161615&animation=fadeIn" width="100%" alt="Data analytics and BI" />
 
 Dashboards that turn raw datasets — sales, HR, public health — into decisions, with SQL, DAX and Power BI.
 
-</td>
-<td width="25%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=60&section=header&text=🤖%20AI-ASSISTED&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="AI-assisted analytics" />
+[![Olist](https://img.shields.io/badge/Olist_E--Commerce-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Olist-Ecommerce-Sales-Analysis-powerbi)
+[![HR Workforce](https://img.shields.io/badge/HR_Workforce-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Hr-workforce-analytics-dashboard)
 
-**AI-assisted analytics**
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=110&section=header&text=🤖%20AI-ASSISTED%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=Ai-Data-Analytics-workspace&descAlignY=68&descSize=14&animation=fadeIn" width="100%" alt="AI-assisted analytics" />
 
 Workspaces that automate the repetitive parts of data work — profiling, cleaning, EDA — so analysis starts faster.
 
-</td>
-<td width="25%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F05138,100:FFB86C&height=60&section=header&text=📱%20CROSS-PLATFORM&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Cross-platform delivery" />
+[![Ai-Data-Analytics-workspace](https://img.shields.io/badge/Ai--Data--Analytics--workspace-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Ai-Data-Analytics-workspace)
 
-**Cross-platform delivery**
+</td>
+<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F05138,100:FFB86C&height=110&section=header&text=📱%20CROSS-PLATFORM%20DELIVERY&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=IGNYT%20web%20·%20IGNYT%20iOS%20·%20Codemagic%20CI&descAlignY=68&descSize=14&animation=fadeIn" width="100%" alt="Cross-platform delivery" />
 
 The same product as a web dashboard, a native mobile app, and the CI pipeline that ships it.
+
+[![IGNYT Web](https://img.shields.io/badge/IGNYT_Web-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/IGNYTfit.in)
+[![IGNYT iOS](https://img.shields.io/badge/IGNYT_iOS-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Ignyt-ios)
 
 </td>
 </tr>
