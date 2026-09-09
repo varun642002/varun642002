@@ -55,7 +55,7 @@ End-to-end apps with a real backend, a real database, and a UI people actually u
 
 </td>
 <td width="25%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=60&section=header&text=📊%20DATA%20%26%20BI&fontSize=15&fontColor=161615&fontAlignY=55&animation=fadeIn" width="100%" alt="Data analytics and BI" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=60&section=header&text=📊%20DATA%20/%20BI&fontSize=15&fontColor=161615&fontAlignY=55&animation=fadeIn" width="100%" alt="Data analytics and BI" />
 
 **Data analytics & BI**
 
