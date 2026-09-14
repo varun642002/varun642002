@@ -265,23 +265,31 @@ this surfaces the trend early enough for HR to act on it.
 
 ## Development Journey
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,25:2F81F7,50:F05138,75:8A5CF6,100:39D353&height=90&section=header&text=🧭%20DEVELOPMENT%20JOURNEY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Four%20stages%2C%20all%20in%202026&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Development Journey" />
+</div>
+
 ```mermaid
 flowchart LR
-    A["📊 Data & BI foundations\nPower BI · SQL · DAX"] --> B["🖥️ Full-stack SaaS\nIGNYT Coach — FastAPI + Next.js"]
-    B --> C["📱 Cross-platform\nSwift/HealthKit · portfolio"]
-    C --> D["🚀 Next\nScale IGNYT · deepen backend"]
+    A["📊 DATA & BI\nPower BI · SQL · DAX\nJul 2026"] --> B["🖥️ FULL-STACK SaaS\nIGNYT Coach — FastAPI + Next.js\nJul – Aug 2026"]
+    B --> C["📱 CROSS-PLATFORM\nSwift/HealthKit · Portfolio\nAug – Sep 2026"]
+    C -.-> D["🚀 NEXT: SCALE\nGrow IGNYT · deepen backend\nIn progress"]
 
-    style A fill:#0f2027,stroke:#39D353,stroke-width:2px,color:#ffffff
-    style B fill:#1c3a4a,stroke:#39D353,stroke-width:2px,color:#ffffff
-    style C fill:#274a5c,stroke:#39D353,stroke-width:2px,color:#ffffff
-    style D fill:#0d1117,stroke:#39D353,stroke-width:2px,color:#39D353
+    style A fill:#F2C811,stroke:#0f2027,stroke-width:3px,color:#161615
+    style B fill:#2F81F7,stroke:#0f2027,stroke-width:3px,color:#ffffff
+    style C fill:#F05138,stroke:#0f2027,stroke-width:3px,color:#ffffff
+    style D fill:#0d1117,stroke:#8A5CF6,stroke-width:3px,stroke-dasharray:6 3,color:#8A5CF6
+
+    linkStyle 0 stroke:#2F81F7,stroke-width:3px
+    linkStyle 1 stroke:#F05138,stroke-width:3px
+    linkStyle 2 stroke:#8A5CF6,stroke-width:3px,stroke-dasharray:4 2
 ```
 
 I started with BI dashboards to get comfortable turning raw data into a decision.
 From there I moved into building the systems that produce that data in the first
 place — which is where IGNYT Coach came from. The iOS build and this portfolio are
 the most recent step: making the same product work as a native app, and getting
-better at presenting the work itself.
+better at presenting the work itself. The dashed line is next — it hasn't happened yet.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
 
