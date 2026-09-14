@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=200&section=header&text=VARUN%20S.&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Formula%20Student%20engineer%20%E2%86%92%20data%20analyst%20%E2%86%92%20full-stack%20builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Varun S. — Formula Student engineer to data analyst to full-stack builder" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1e3a8a,100:22d3ee&height=200&section=header&text=VARUN%20S.&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Formula%20Student%20engineer%20%E2%86%92%20data%20analyst%20%E2%86%92%20full-stack%20builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Varun S. — Formula Student engineer to data analyst to full-stack builder" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Turning+messy+data+into+decisions;Turning+half-formed+ideas+into+shipped+products;Currently+building%3A+IGNYT+Coach;Backend%2C+dashboards%2C+or+iOS+%E2%80%94+whatever+the+problem+needs&font=Fira+Code&center=true&width=640&height=40&color=39D353&vCenter=true&size=19&pause=1800" alt="Rotating tagline: turning messy data into decisions, turning half-formed ideas into shipped products, currently building IGNYT Coach, backend or dashboards or iOS — whatever the problem needs" />
 
@@ -27,7 +27,7 @@ the system that acts on it.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@ the system that acts on it.
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## What I Build
 
@@ -86,7 +86,7 @@ The same product as a web dashboard, a native mobile app, and the CI pipeline th
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Featured Projects
 
@@ -240,7 +240,7 @@ this surfaces the trend early enough for HR to act on it.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Tech Stack
 
@@ -261,12 +261,12 @@ this surfaces the trend early enough for HR to act on it.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Development Journey
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,25:2F81F7,50:F05138,75:8A5CF6,100:39D353&height=90&section=header&text=🧭%20DEVELOPMENT%20JOURNEY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Four%20stages%2C%20all%20in%202026&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Development Journey" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🧭%20DEVELOPMENT%20JOURNEY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Four%20stages%2C%20all%20in%202026&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Development Journey" />
 </div>
 
 ```mermaid
@@ -291,12 +291,12 @@ place — which is where IGNYT Coach came from. The iOS build and this portfolio
 the most recent step: making the same product work as a native app, and getting
 better at presenting the work itself. The dashed line is next — it hasn't happened yet.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Currently Building
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=90&section=header&text=🔨%20CURRENTLY%20BUILDING&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Three%20surfaces%2C%20in%20progress%20right%20now&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Currently Building" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🔨%20CURRENTLY%20BUILDING&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Three%20surfaces%2C%20in%20progress%20right%20now&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Currently Building" />
 </div>
 
 <table>
@@ -320,7 +320,7 @@ better at presenting the work itself. The dashed line is next — it hasn't happ
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## Engineering Philosophy
 
@@ -355,13 +355,13 @@ better at presenting the work itself. The dashed line is next — it hasn't happ
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=90&section=header&text=📡%20GITHUB%20ACTIVITY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Live%20numbers%2C%20pulled%20straight%20from%20the%20GitHub%20API&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="GitHub Activity" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=📡%20GITHUB%20ACTIVITY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Live%20numbers%2C%20pulled%20straight%20from%20the%20GitHub%20API&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="GitHub Activity" />
 
 <br /><br />
 
@@ -380,13 +380,13 @@ better at presenting the work itself. The dashed line is next — it hasn't happ
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,15:2F81F7,35:8A5CF6,55:F2C811,80:F05138,100:39D353&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
 
 <div align="center">
 
 ## Connect
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:39D353,25:2F81F7,50:8A5CF6,75:F2C811,100:F05138&height=90&section=header&text=🤝%20CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Open%20to%20opportunities%20%C2%B7%20always%20up%20for%20a%20good%20problem&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Let's Connect" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🤝%20CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Open%20to%20opportunities%20%C2%B7%20always%20up%20for%20a%20good%20problem&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Let's Connect" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Got+a+problem+worth+solving%3F;Let's+build+it.;DM+me+on+LinkedIn+%E2%86%93&font=Fira+Code&center=true&width=500&height=35&color=39D353&vCenter=true&size=17&pause=1400" alt="Got a problem worth solving? Let's build it. DM me on LinkedIn." />
 
@@ -423,6 +423,6 @@ Follow the commits
 
 <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=varun642002&style=flat-square&color=39D353&label=" alt="profile view counter" /></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,20:F05138,45:F2C811,65:8A5CF6,85:2F81F7,100:0f2027&height=100&section=footer&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:1e3a8a,100:0f2027&height=100&section=footer&animation=fadeIn" width="100%" alt="" />
 
 </div>
