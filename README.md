@@ -90,6 +90,10 @@ The same product as a web dashboard, a native mobile app, and the CI pipeline th
 
 ## Featured Projects
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🚀%20FEATURED%20PROJECTS&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Real%20repos%20%C2%B7%20real%20problems%20%C2%B7%20real%20code&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Featured Projects" />
+</div>
+
 <table>
 <tr>
 <td colspan="3">
@@ -97,10 +101,10 @@ The same product as a web dashboard, a native mobile app, and the CI pipeline th
 </td>
 </tr>
 <tr>
-<td width="8%" align="center"><img src="https://img.shields.io/badge/01-0f2027?style=for-the-badge" alt="01" /></td>
+<td width="8%" align="center"><img src="https://img.shields.io/badge/01-39D353?style=for-the-badge" alt="01" /></td>
 <td width="52%">
 
-**[IGNYT Coach](https://github.com/varun642002/ignyt-coach)**
+**[IGNYT Coach](https://github.com/varun642002/ignyt-coach)** ![Flagship](https://img.shields.io/badge/⭐-FLAGSHIP-F2C811?style=flat-square)
 Trainer/gym management SaaS — owners, trainers and assistants manage clients, build
 training programmes and meal plans, run check-ins, message clients, and bill them,
 with assigned work syncing straight into the IGNYT client app.
@@ -114,8 +118,7 @@ communication in one system with real role separation between owner/trainer/assi
 
 ![Active](https://img.shields.io/badge/STATUS-ACTIVE-39D353?style=for-the-badge)
 
-`Python` `FastAPI` `PostgreSQL`
-`Next.js 15` `TypeScript` `Docker`
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,nextjs,ts,docker" alt="Python, FastAPI, PostgreSQL, Next.js, TypeScript, Docker" />
 
 [**📦 Repo**](https://github.com/varun642002/ignyt-coach)
 
@@ -130,7 +133,7 @@ communication in one system with real role separation between owner/trainer/assi
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/02-0f2027?style=for-the-badge" alt="02" /></td>
+<td align="center"><img src="https://img.shields.io/badge/02-2F81F7?style=for-the-badge" alt="02" /></td>
 <td>
 
 **[Ai-Data-Analytics-workspace](https://github.com/varun642002/Ai-Data-Analytics-workspace)**
@@ -146,7 +149,7 @@ of notebooks and scripts.
 
 ![Experiment](https://img.shields.io/badge/STATUS-EXPERIMENT-2F81F7?style=for-the-badge)
 
-`TypeScript` `Python` `SQL`
+<img src="https://skillicons.dev/icons?i=ts,python,postgres" alt="TypeScript, Python, SQL" />
 
 [**📦 Repo**](https://github.com/varun642002/Ai-Data-Analytics-workspace)
 
@@ -161,7 +164,7 @@ of notebooks and scripts.
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/03-0f2027?style=for-the-badge" alt="03" /></td>
+<td align="center"><img src="https://img.shields.io/badge/03-F7A32F?style=for-the-badge" alt="03" /></td>
 <td>
 
 **[IGNYT](https://github.com/varun642002/IGNYTfit.in)**
@@ -176,7 +179,7 @@ from their phone, with health data feeding back into the loop.
 
 ![In Development](https://img.shields.io/badge/STATUS-IN__DEV-F7A32F?style=for-the-badge)
 
-`Next.js` `TypeScript` `Swift` `HealthKit`
+<img src="https://skillicons.dev/icons?i=nextjs,ts,swift" alt="Next.js, TypeScript, Swift" /> `HealthKit`
 
 [**🔗 Live**](https://ignytfit.in) · [**📦 Web**](https://github.com/varun642002/IGNYTfit.in) · [**📦 iOS**](https://github.com/varun642002/Ignyt-ios)
 
@@ -189,7 +192,7 @@ from their phone, with health data feeding back into the loop.
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/04-0f2027?style=for-the-badge" alt="04" /></td>
+<td align="center"><img src="https://img.shields.io/badge/04-F2C811?style=for-the-badge" alt="04" /></td>
 <td>
 
 **[Olist E-Commerce Sales Analysis](https://github.com/varun642002/Olist-Ecommerce-Sales-Analysis-powerbi)**
@@ -217,7 +220,7 @@ into a schema, writing DAX measures, and presenting it for execs, sales and cust
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/05-0f2027?style=for-the-badge" alt="05" /></td>
+<td align="center"><img src="https://img.shields.io/badge/05-8A5CF6?style=for-the-badge" alt="05" /></td>
 <td>
 
 **[HR Workforce Analytics Dashboard](https://github.com/varun642002/Hr-workforce-analytics-dashboard)**
