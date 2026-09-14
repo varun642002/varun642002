@@ -386,11 +386,40 @@ better at presenting the work itself. The dashed line is next — it hasn't happ
 
 ## Connect
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:39D353,25:2F81F7,50:8A5CF6,75:F2C811,100:F05138&height=90&section=header&text=🤝%20CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Open%20to%20opportunities%20%C2%B7%20always%20up%20for%20a%20good%20problem&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Let's Connect" />
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Got+a+problem+worth+solving%3F;Let's+build+it.;DM+me+on+LinkedIn+%E2%86%93&font=Fira+Code&center=true&width=500&height=35&color=39D353&vCenter=true&size=17&pause=1400" alt="Got a problem worth solving? Let's build it. DM me on LinkedIn." />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-39D353?style=for-the-badge&logo=vercel&logoColor=white)](https://varun642002.github.io/varun-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun64200/)
-[![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun642002)
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🌐 Portfolio**
+See the full case studies
+
+[![Visit](https://img.shields.io/badge/VISIT-39D353?style=for-the-badge&logo=vercel&logoColor=white)](https://varun642002.github.io/varun-portfolio/)
+
+</td>
+<td width="33%" align="center">
+
+**💼 LinkedIn**
+Let's talk opportunities
+
+[![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun64200/)
+
+</td>
+<td width="33%" align="center">
+
+**🐙 GitHub**
+Follow the commits
+
+[![Follow](https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun642002)
+
+</td>
+</tr>
+</table>
 
 <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=varun642002&style=flat-square&color=39D353&label=" alt="profile view counter" /></sub>
 
