@@ -1,431 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1e3a8a,100:22d3ee&height=200&section=header&text=VARUN%20S.&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Formula%20Student%20engineer%20%E2%86%92%20data%20analyst%20%E2%86%92%20full-stack%20builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Varun S. — Formula Student engineer to data analyst to full-stack builder" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1e3a8a,100:22d3ee&height=180&section=header&text=Varun%20S.&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Business%20Analytics%20and%20Product%20Engineering&descAlignY=58&descSize=18" alt="Varun S. — Business Analytics and Product Engineering" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Turning+messy+data+into+decisions;Turning+half-formed+ideas+into+shipped+products;Currently+building%3A+IGNYT+Coach;Backend%2C+dashboards%2C+or+iOS+%E2%80%94+whatever+the+problem+needs&font=Fira+Code&center=true&width=640&height=40&color=39D353&vCenter=true&size=19&pause=1800" alt="Rotating tagline: turning messy data into decisions, turning half-formed ideas into shipped products, currently building IGNYT Coach, backend or dashboards or iOS — whatever the problem needs" />
+**Data analyst and full-stack developer.** I build analytics that people act on and the software systems behind them: SQL models, Power BI dashboards, and production web and mobile applications.
 
-<br />
-
-I started in mechanical engineering — brake systems for a Formula Student car — before moving
-into data analytics and, from there, into building the full software behind the numbers.
-That path shows up in how I work: instrument things, look at what the data says, then build
-the system that acts on it.
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-39D353?style=for-the-badge&logo=vercel&logoColor=white)](https://varun642002.github.io/varun-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun64200/)
-[![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun642002)
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varun642002/varun642002/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varun642002/varun642002/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/varun642002/varun642002/output/snake.svg" alt="Animated snake eating through Varun's real GitHub contribution graph" width="100%" />
-</picture>
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://varun642002.github.io/varun-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun64200/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun642002)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
+## About
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│  VARUN.TELEMETRY                                                  │
-│  ────────────────────────────────────────────────────────────    │
-│  SIGNAL       brake-systems engineer → data analyst → builder     │
-│  BUILDING     IGNYT Coach — trainer/gym SaaS (FastAPI + Next.js)  │
-│  ANALYZING    e-commerce, HR & public-health datasets in Power BI │
-│  STATUS       ● ONLINE — shipping across web, iOS and BI          │
-└──────────────────────────────────────────────────────────────────┘
-```
+I started in mechanical engineering, working on the brake system of a Formula Student car, before moving into data analytics and then into building complete software products. That background shapes how I work: measure first, understand what the data shows, then build the system that acts on it.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
+| | |
+|---|---|
+| **Focus** | Business intelligence, data analytics, full-stack product development |
+| **Currently building** | IGNYT Coach (trainer management platform) and the IGNYT iOS app |
+| **Core stack** | Python, TypeScript, SQL, FastAPI, Next.js, PostgreSQL, Power BI |
+| **Learning** | Azure data engineering |
 
-## What I Build
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:39D353&height=110&section=header&text=🖥️%20FULL-STACK%20PRODUCTS&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=IGNYT%20Coach%20·%20IGNYT%20app&descAlignY=68&descSize=14&animation=fadeIn" width="100%" alt="Full-stack products" />
-
-End-to-end apps with a real backend, a real database, and a UI people actually use — not just prototypes.
-
-[![IGNYT Coach](https://img.shields.io/badge/IGNYT_Coach-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/ignyt-coach)
-[![IGNYT](https://img.shields.io/badge/IGNYT-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/IGNYTfit.in)
-
-</td>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=110&section=header&text=📊%20DATA%20ANALYTICS%20/%20BI&fontSize=22&fontColor=161615&fontAlignY=38&desc=Olist%20·%20HR%20Workforce%20·%20COVID-19&descAlignY=68&descSize=14&descColor=161615&animation=fadeIn" width="100%" alt="Data analytics and BI" />
-
-Dashboards that turn raw datasets — sales, HR, public health — into decisions, with SQL, DAX and Power BI.
-
-[![Olist](https://img.shields.io/badge/Olist_E--Commerce-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Olist-Ecommerce-Sales-Analysis-powerbi)
-[![HR Workforce](https://img.shields.io/badge/HR_Workforce-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Hr-workforce-analytics-dashboard)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=110&section=header&text=🤖%20AI-ASSISTED%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=Ai-Data-Analytics-workspace&descAlignY=68&descSize=14&animation=fadeIn" width="100%" alt="AI-assisted analytics" />
-
-Workspaces that automate the repetitive parts of data work — profiling, cleaning, EDA — so analysis starts faster.
-
-[![Ai-Data-Analytics-workspace](https://img.shields.io/badge/Ai--Data--Analytics--workspace-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Ai-Data-Analytics-workspace)
-
-</td>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F05138,100:FFB86C&height=110&section=header&text=📱%20CROSS-PLATFORM%20DELIVERY&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=IGNYT%20web%20·%20IGNYT%20iOS%20·%20Codemagic%20CI&descAlignY=68&descSize=14&animation=fadeIn" width="100%" alt="Cross-platform delivery" />
-
-The same product as a web dashboard, a native mobile app, and the CI pipeline that ships it.
-
-[![IGNYT Web](https://img.shields.io/badge/IGNYT_Web-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/IGNYTfit.in)
-[![IGNYT iOS](https://img.shields.io/badge/IGNYT_iOS-repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varun642002/Ignyt-ios)
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
+---
 
 ## Featured Projects
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🚀%20FEATURED%20PROJECTS&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Real%20repos%20%C2%B7%20real%20problems%20%C2%B7%20real%20code&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Featured Projects" />
-</div>
+### 1. IGNYT Coach
+![Status: Active](https://img.shields.io/badge/status-active-2ea043?style=flat-square)
 
-<table>
-<tr>
-<td colspan="3">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:39D353&height=90&section=header&text=IGNYT%20COACH&fontSize=28&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%" alt="IGNYT Coach" />
-</td>
-</tr>
-<tr>
-<td width="8%" align="center"><img src="https://img.shields.io/badge/01-39D353?style=for-the-badge" alt="01" /></td>
-<td width="52%">
+A platform for personal trainers, gyms and nutrition coaches. Owners, trainers and assistants manage clients, build training programmes and meal plans, run check-ins, message clients and bill them. Assigned work syncs directly into the client-facing IGNYT app.
 
-**[IGNYT Coach](https://github.com/varun642002/ignyt-coach)** ![Flagship](https://img.shields.io/badge/⭐-FLAGSHIP-F2C811?style=flat-square)
-Trainer/gym management SaaS — owners, trainers and assistants manage clients, build
-training programmes and meal plans, run check-ins, message clients, and bill them,
-with assigned work syncing straight into the IGNYT client app.
-
-*Why it matters:* independent trainers and small gyms run their business across
-spreadsheets, group chats and payment apps. This puts programming, billing and
-communication in one system with real role separation between owner/trainer/assistant.
-
-</td>
-<td width="40%">
-
-![Active](https://img.shields.io/badge/STATUS-ACTIVE-39D353?style=for-the-badge)
+**Why it matters:** independent trainers and small gyms typically run their business across spreadsheets, group chats and separate payment tools. This consolidates programming, billing and communication into one system with role-based access.
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,nextjs,ts,docker" alt="Python, FastAPI, PostgreSQL, Next.js, TypeScript, Docker" />
 
-[**📦 Repo**](https://github.com/varun642002/ignyt-coach)
+[Repository](https://github.com/varun642002/ignyt-coach)
 
-<sub>Live demo is currently offline between deploys — repo has the full architecture.</sub>
+### 2. Ai-Data-Analytics-workspace
+![Status: Experimental](https://img.shields.io/badge/status-experimental-2F81F7?style=flat-square)
 
-</td>
-</tr>
-<tr><td colspan="3"><br/></td></tr>
-<tr>
-<td colspan="3">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=90&section=header&text=AI-DATA-ANALYTICS-WORKSPACE&fontSize=22&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%" alt="Ai Data Analytics Workspace" />
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/02-2F81F7?style=for-the-badge" alt="02" /></td>
-<td>
+An analytics workspace covering data profiling, cleaning, exploratory analysis, SQL querying, visualization and dashboards, with AI assisting the interpretation layer.
 
-**[Ai-Data-Analytics-workspace](https://github.com/varun642002/Ai-Data-Analytics-workspace)**
-An analytics workspace for data profiling, cleaning, exploratory analysis, SQL querying,
-visualization and dashboards — with AI assisting the interpretation layer on top.
-
-*Why it matters:* most analysis time goes into cleaning and profiling before any real
-insight happens. This collapses that setup work into one workspace instead of a chain
-of notebooks and scripts.
-
-</td>
-<td>
-
-![Experiment](https://img.shields.io/badge/STATUS-EXPERIMENT-2F81F7?style=for-the-badge)
+**Why it matters:** most analysis time goes into profiling and cleaning before any insight appears. This brings that setup work into a single workspace instead of a chain of notebooks and scripts.
 
 <img src="https://skillicons.dev/icons?i=ts,python,postgres" alt="TypeScript, Python, SQL" />
 
-[**📦 Repo**](https://github.com/varun642002/Ai-Data-Analytics-workspace)
+[Repository](https://github.com/varun642002/Ai-Data-Analytics-workspace)
 
-<sub>Live demo is currently offline between deploys — repo has the full source.</sub>
+### 3. IGNYT — fitness and nutrition app
+![Status: In development](https://img.shields.io/badge/status-in%20development-d29922?style=flat-square)
 
-</td>
-</tr>
-<tr><td colspan="3"><br/></td></tr>
-<tr>
-<td colspan="3">
-<img src="https://ignytfit.in/opengraph-image?f0472d49088eb765" width="100%" alt="IGNYT app — transform your fitness journey: workouts, nutrition, fasting, hydration and Health Connect in one app" />
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/03-F7A32F?style=for-the-badge" alt="03" /></td>
-<td>
+<a href="https://ignytfit.in"><img src="https://ignytfit.in/opengraph-image?f0472d49088eb765" width="100%" alt="IGNYT: workouts, nutrition, fasting, hydration and Health Connect in one app" /></a>
 
-**[IGNYT](https://github.com/varun642002/IGNYTfit.in)**
-The consumer side of IGNYT — a fitness & nutrition tracker (Next.js web app) paired with a native **[iOS build](https://github.com/varun642002/Ignyt-ios)**
-(Swift, HealthKit integration, Codemagic CI) that mirrors programmes assigned by a coach.
+The client-facing side of IGNYT: a Next.js web app and a native iOS build (Swift, HealthKit integration, Codemagic CI) that receives programmes assigned by a coach in IGNYT Coach.
 
-*Why it matters:* a trainer's plan is only useful if the client can actually follow it
-from their phone, with health data feeding back into the loop.
+**Why it matters:** a trainer's plan only works if the client can follow it from their phone, with health data feeding back into the loop.
 
-</td>
-<td>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,swift" alt="Next.js, TypeScript, Swift" />
 
-![In Development](https://img.shields.io/badge/STATUS-IN__DEV-F7A32F?style=for-the-badge)
+[Website](https://ignytfit.in) · [Web repository](https://github.com/varun642002/IGNYTfit.in) · [iOS repository](https://github.com/varun642002/Ignyt-ios)
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,swift" alt="Next.js, TypeScript, Swift" /> `HealthKit`
+### 4. Olist E-Commerce Sales Analysis
+![Status: Completed](https://img.shields.io/badge/status-completed-6e7781?style=flat-square)
 
-[**🔗 Live**](https://ignytfit.in) · [**📦 Web**](https://github.com/varun642002/IGNYTfit.in) · [**📦 iOS**](https://github.com/varun642002/Ignyt-ios)
+<img src="https://github.com/user-attachments/assets/b4fec4af-a522-416d-a67a-bbe307efcd38" width="100%" alt="Olist executive dashboard in Power BI showing revenue, orders, customers and top categories" />
 
-</td>
-</tr>
-<tr><td colspan="3"><br/></td></tr>
-<tr>
-<td colspan="3">
-<img src="https://github.com/user-attachments/assets/b4fec4af-a522-416d-a67a-bbe307efcd38" width="100%" alt="Olist E-Commerce executive dashboard in Power BI showing revenue, orders, customers and top categories" />
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/04-F2C811?style=for-the-badge" alt="04" /></td>
-<td>
+Executive, Sales and Customer Insights dashboards built on the Olist Brazilian e-commerce dataset.
 
-**[Olist E-Commerce Sales Analysis](https://github.com/varun642002/Olist-Ecommerce-Sales-Analysis-powerbi)**
-Executive, Sales and Customer Insights dashboards built on the Olist Brazilian
-e-commerce dataset.
+**Why it matters:** covers the full BI workflow — modeling raw transactional data, writing DAX measures, and presenting results for different audiences (executives, sales, customer operations).
 
-*Why it matters:* demonstrates the full BI loop — modeling raw transactional data
-into a schema, writing DAX measures, and presenting it for execs, sales and customer ops.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-</td>
-<td>
+[Repository](https://github.com/varun642002/Olist-Ecommerce-Sales-Analysis-powerbi)
 
-![Completed](https://img.shields.io/badge/STATUS-COMPLETED-8A5CF6?style=for-the-badge)
+### 5. HR Workforce Analytics Dashboard
+![Status: Completed](https://img.shields.io/badge/status-completed-6e7781?style=flat-square)
 
-`Power BI` `SQL` `DAX` `Excel`
-
-[**📦 Repo**](https://github.com/varun642002/Olist-Ecommerce-Sales-Analysis-powerbi)
-
-</td>
-</tr>
-<tr><td colspan="3"><br/></td></tr>
-<tr>
-<td colspan="3">
 <img src="https://github.com/user-attachments/assets/c9671982-862f-4d71-abce-755658110752" width="100%" alt="HR workforce executive dashboard in Power BI showing headcount, attrition rate and satisfaction KPIs" />
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/05-8A5CF6?style=for-the-badge" alt="05" /></td>
-<td>
 
-**[HR Workforce Analytics Dashboard](https://github.com/varun642002/Hr-workforce-analytics-dashboard)**
-Power BI dashboard analyzing employee demographics, workforce distribution,
-attrition trends and satisfaction.
+A Power BI dashboard analyzing employee demographics, workforce distribution, attrition trends and satisfaction.
 
-*Why it matters:* attrition is expensive and usually invisible until it's a crisis —
-this surfaces the trend early enough for HR to act on it.
+**Why it matters:** attrition is costly and often invisible until it becomes a problem; this surfaces the trend early enough for HR to act.
 
-</td>
-<td>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-![Completed](https://img.shields.io/badge/STATUS-COMPLETED-8A5CF6?style=for-the-badge)
+[Repository](https://github.com/varun642002/Hr-workforce-analytics-dashboard)
 
-`Power BI` `SQL` `DAX` `Power Query`
+---
 
-[**📦 Repo**](https://github.com/varun642002/Hr-workforce-analytics-dashboard)
+## Technical Skills
 
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, SQL, Swift |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | FastAPI, Node.js |
+| **Databases** | PostgreSQL, SQLite |
+| **Data and BI** | Power BI, DAX, Power Query, Excel, Google Looker Studio |
+| **Tooling** | Docker, GitHub Actions, Vercel, Codemagic |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
+<img src="https://skillicons.dev/icons?i=python,ts,swift,react,nextjs,tailwind,fastapi,nodejs,postgres,sqlite,docker,githubactions,vercel&perline=13" alt="Python, TypeScript, Swift, React, Next.js, Tailwind CSS, FastAPI, Node.js, PostgreSQL, SQLite, Docker, GitHub Actions, Vercel" />
 
-## Tech Stack
+---
 
-<div align="center">
+## How I Work
 
-**Core stack**
+- **Start from the user's problem.** IGNYT Coach exists because trainers run their business across several disconnected tools; the goal was to fix that, not to practice a framework.
+- **Measure before optimizing.** Coming from BI, I look at the data before deciding on a fix.
+- **Keep systems loosely coupled.** IGNYT Coach and the IGNYT app are separate repositories connected by a single HTTP contract, so each can change independently.
+- **Ship the whole path.** A dashboard, backend, mobile client and the CI that deploys it — a project is finished when the last step works.
 
-<img src="https://skillicons.dev/icons?i=python,ts,swift,react,nextjs,tailwind,framer,fastapi,nodejs,postgres,sqlite,docker,githubactions,vercel&perline=7" alt="Python, TypeScript, Swift, React, Next.js, Tailwind CSS, Framer Motion, FastAPI, Node.js, PostgreSQL, SQLite, Docker, GitHub Actions, Vercel" />
+---
 
-**Data & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Excel / Power Query](https://img.shields.io/badge/Excel_%2F_Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
-
-## Development Journey
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🧭%20DEVELOPMENT%20JOURNEY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Four%20stages%2C%20all%20in%202026&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Development Journey" />
-</div>
+## Timeline
 
 ```mermaid
 flowchart LR
-    A["📊 DATA & BI\nPower BI · SQL · DAX\nJul 2026"] --> B["🖥️ FULL-STACK SaaS\nIGNYT Coach — FastAPI + Next.js\nJul – Aug 2026"]
-    B --> C["📱 CROSS-PLATFORM\nSwift/HealthKit · Portfolio\nAug – Sep 2026"]
-    C -.-> D["🚀 NEXT: SCALE\nGrow IGNYT · deepen backend\nIn progress"]
+    A["Data and BI<br/>Power BI, SQL, DAX<br/>Jul 2026"] --> B["Full-stack product<br/>IGNYT Coach<br/>Jul - Aug 2026"]
+    B --> C["Mobile and portfolio<br/>Swift, HealthKit<br/>Aug - Sep 2026"]
+    C -.-> D["Next<br/>Scale IGNYT, deepen backend"]
 
-    style A fill:#F2C811,stroke:#0f2027,stroke-width:3px,color:#161615
-    style B fill:#2F81F7,stroke:#0f2027,stroke-width:3px,color:#ffffff
-    style C fill:#F05138,stroke:#0f2027,stroke-width:3px,color:#ffffff
-    style D fill:#0d1117,stroke:#8A5CF6,stroke-width:3px,stroke-dasharray:6 3,color:#8A5CF6
-
-    linkStyle 0 stroke:#2F81F7,stroke-width:3px
-    linkStyle 1 stroke:#F05138,stroke-width:3px
-    linkStyle 2 stroke:#8A5CF6,stroke-width:3px,stroke-dasharray:4 2
+    style A fill:#0f2027,stroke:#22d3ee,color:#ffffff
+    style B fill:#1e3a8a,stroke:#22d3ee,color:#ffffff
+    style C fill:#1d4ed8,stroke:#22d3ee,color:#ffffff
+    style D fill:#ffffff,stroke:#1e3a8a,stroke-dasharray:5 3,color:#1e3a8a
 ```
 
-I started with BI dashboards to get comfortable turning raw data into a decision.
-From there I moved into building the systems that produce that data in the first
-place — which is where IGNYT Coach came from. The iOS build and this portfolio are
-the most recent step: making the same product work as a native app, and getting
-better at presenting the work itself. The dashed line is next — it hasn't happened yet.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
-
-## Currently Building
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🔨%20CURRENTLY%20BUILDING&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Three%20surfaces%2C%20in%20progress%20right%20now&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Currently Building" />
-</div>
-
-<table>
-<tr>
-<td width="6%" align="center"><code>01</code></td>
-<td width="24%"><a href="https://github.com/varun642002/ignyt-coach"><b>IGNYT Coach</b></a></td>
-<td width="18%">![Active](https://img.shields.io/badge/ACTIVE-39D353?style=for-the-badge)</td>
-<td width="52%">trainer/gym SaaS — billing, chat and programme sync</td>
-</tr>
-<tr>
-<td align="center"><code>02</code></td>
-<td><a href="https://github.com/varun642002/Ignyt-ios"><b>IGNYT iOS</b></a></td>
-<td>![In Development](https://img.shields.io/badge/IN__DEV-F7A32F?style=for-the-badge)</td>
-<td>Swift + HealthKit client, wired to Codemagic CI</td>
-</tr>
-<tr>
-<td align="center"><code>03</code></td>
-<td><a href="https://github.com/varun642002/varun-portfolio"><b>This portfolio</b></a></td>
-<td>![Active](https://img.shields.io/badge/ACTIVE-39D353?style=for-the-badge)</td>
-<td>a "telemetry" themed site, instrument-dial signature interaction</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
-
-## Engineering Philosophy
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:39D353&height=70&section=header&text=⚙️%20BUILD%20FOR%20REAL%20USERS&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Build for a real user, not a resume line" />
-
-**Not a resume line.** IGNYT Coach exists because trainers actually run their business across five disconnected tools — that's the problem, not "learn FastAPI."
-
-</td>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:8A5CF6&height=70&section=header&text=📈%20INSTRUMENT%20FIRST&fontSize=18&fontColor=161615&fontAlignY=55&animation=fadeIn" width="100%" alt="Instrument before you optimize" />
-
-**Before you optimize.** Coming from BI, I default to looking at the actual data/behavior before guessing at a fix.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A5CF6,100:2F81F7&height=70&section=header&text=🧩%20KEEP%20IT%20SEPARABLE&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Keep the pieces separable" />
-
-**Loosely coupled, on purpose.** IGNYT Coach and the IGNYT consumer app are two repos with one HTTP contract between them — each can change without breaking the other.
-
-</td>
-<td width="50%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F05138,100:FFB86C&height=70&section=header&text=🚀%20SHIP%20THE%20WHOLE%20PATH&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Ship the whole path" />
-
-**Not just the demo.** A dashboard, a backend, a mobile client, and the CI that deploys it — the project isn't done until the last mile works too.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=📡%20GITHUB%20ACTIVITY&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Live%20numbers%2C%20pulled%20straight%20from%20the%20GitHub%20API&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="GitHub Activity" />
-
-<br /><br />
-
-![Followers](https://img.shields.io/github/followers/varun642002?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=161b22&color=39D353)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarun642002&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=2F81F7)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarun642002&query=%24.following&label=FOLLOWING&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=8A5CF6)
-
-<br />
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&ring=1f7a3f&fire=1f7a3f&currStreakLabel=1f7a3f" alt="Varun's GitHub contribution streak: total contributions, current streak and longest streak" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&background=0D1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun642002&hide_border=true&ring=1e3a8a&fire=1e3a8a&currStreakLabel=1e3a8a" alt="GitHub contribution streak: total contributions, current streak and longest streak" width="90%" />
 </picture>
 
-<sub>The full contribution graph — and the animated snake above eating through it — reflect this same live data.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varun642002/varun642002/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varun642002/varun642002/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/varun642002/varun642002/output/snake.svg" alt="Contribution graph animation generated from public GitHub activity" width="100%" />
+</picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1e3a8a,100:22d3ee&height=3&animation=fadeIn" width="100%" alt="" />
+---
 
-<div align="center">
+## Contact
 
-## Connect
+I am open to data analyst, business intelligence and full-stack engineering opportunities.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:1e3a8a,100:22d3ee&height=90&section=header&text=🤝%20CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Open%20to%20opportunities%20%C2%B7%20always%20up%20for%20a%20good%20problem&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Let's Connect" />
+- **LinkedIn:** [linkedin.com/in/varun64200](https://www.linkedin.com/in/varun64200/)
+- **Portfolio:** [varun642002.github.io/varun-portfolio](https://varun642002.github.io/varun-portfolio/)
+- **GitHub:** [github.com/varun642002](https://github.com/varun642002)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Got+a+problem+worth+solving%3F;Let's+build+it.;DM+me+on+LinkedIn+%E2%86%93&font=Fira+Code&center=true&width=500&height=35&color=39D353&vCenter=true&size=17&pause=1400" alt="Got a problem worth solving? Let's build it. DM me on LinkedIn." />
-
-<br />
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🌐 Portfolio**
-See the full case studies
-
-[![Visit](https://img.shields.io/badge/VISIT-39D353?style=for-the-badge&logo=vercel&logoColor=white)](https://varun642002.github.io/varun-portfolio/)
-
-</td>
-<td width="33%" align="center">
-
-**💼 LinkedIn**
-Let's talk opportunities
-
-[![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun64200/)
-
-</td>
-<td width="33%" align="center">
-
-**🐙 GitHub**
-Follow the commits
-
-[![Follow](https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun642002)
-
-</td>
-</tr>
-</table>
-
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=varun642002&style=flat-square&color=39D353&label=" alt="profile view counter" /></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:1e3a8a,100:0f2027&height=100&section=footer&animation=fadeIn" width="100%" alt="" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:1e3a8a,100:0f2027&height=80&section=footer" width="100%" alt="" />
