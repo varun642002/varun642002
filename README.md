@@ -17,9 +17,21 @@ I started in mechanical engineering, working on the brake system of a Formula St
 | | |
 |---|---|
 | **Focus** | Business intelligence, data analytics, full-stack product development |
-| **Currently building** | IGNYT Coach (trainer management platform) and the IGNYT iOS app |
+| **Currently building** | IGNYT Coach (trainer management platform), the IGNYT iOS app, and open-source developer tooling |
 | **Core stack** | Python, TypeScript, SQL, FastAPI, Next.js, PostgreSQL, Power BI |
 | **Learning** | Azure data engineering |
+
+---
+
+## Open Source
+
+Tools I built for my own workflow and released because the problems are not mine alone. Free, MIT, no account and no server.
+
+| Project | What it does | |
+|---|---|---|
+| **[tinymem](https://github.com/varun642002/tinymem)** | Persistent memory for Claude Code. It writes down what you taught it about a project and hands that back at the start of the next session. Zero dependencies, plain JSONL on your own disk. | [![Stars](https://img.shields.io/github/stars/varun642002/tinymem?style=flat-square&label=%E2%98%85)](https://github.com/varun642002/tinymem) |
+| **[lean-workflow](https://github.com/varun642002/lean-workflow)** | Ten token-lean agents and six workflow skills for Claude Code — plan, build, debug, test, review, secure and ship — each with a hard limit on what it reads and how much it reports. | [![Stars](https://img.shields.io/github/stars/varun642002/lean-workflow?style=flat-square&label=%E2%98%85)](https://github.com/varun642002/lean-workflow) |
+| **[erp-starter-kit](https://github.com/varun642002/erp-starter-kit)** | A complete multi-branch ERP base: sales, stock, invoices, cash book, service, payroll and WhatsApp. React, TypeScript, Express, PostgreSQL and Firebase. Fork it and build your own. | [![Stars](https://img.shields.io/github/stars/varun642002/erp-starter-kit?style=flat-square&label=%E2%98%85)](https://github.com/varun642002/erp-starter-kit) |
 
 ---
 
@@ -115,6 +127,7 @@ A Power BI dashboard analyzing employee demographics, workforce distribution, at
 - **Measure before optimizing.** Coming from BI, I look at the data before deciding on a fix.
 - **Keep systems loosely coupled.** IGNYT Coach and the IGNYT app are separate repositories connected by a single HTTP contract, so each can change independently.
 - **Ship the whole path.** A dashboard, backend, mobile client and the CI that deploys it — a project is finished when the last step works.
+- **Automate the repetitive part.** tinymem and lean-workflow both came out of the same frustration: doing the same explaining, checking and reviewing by hand on every project.
 
 ---
 
@@ -124,12 +137,14 @@ A Power BI dashboard analyzing employee demographics, workforce distribution, at
 flowchart LR
     A["Data and BI<br/>Power BI, SQL, DAX<br/>Jul 2026"] --> B["Full-stack product<br/>IGNYT Coach<br/>Jul - Aug 2026"]
     B --> C["Mobile and portfolio<br/>Swift, HealthKit<br/>Aug - Sep 2026"]
-    C -.-> D["Next<br/>Scale IGNYT, deepen backend"]
+    C --> D["Developer tooling<br/>tinymem, lean-workflow<br/>Nov 2026"]
+    D -.-> E["Next<br/>Scale IGNYT, deepen backend"]
 
     style A fill:#0f2027,stroke:#22d3ee,color:#ffffff
     style B fill:#1e3a8a,stroke:#22d3ee,color:#ffffff
     style C fill:#1d4ed8,stroke:#22d3ee,color:#ffffff
-    style D fill:#ffffff,stroke:#1e3a8a,stroke-dasharray:5 3,color:#1e3a8a
+    style D fill:#2563eb,stroke:#22d3ee,color:#ffffff
+    style E fill:#ffffff,stroke:#1e3a8a,stroke-dasharray:5 3,color:#1e3a8a
 ```
 
 ---
