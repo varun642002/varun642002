@@ -30,8 +30,18 @@ workflow and released because the problems are not mine alone. All MIT, all
 zero-dependency Node, none of them phone home: no account, no server, nothing
 leaves your machine.
 
+Most are Claude Code plugins, installed in two lines:
+
 ```bash
 claude plugin marketplace add varun642002/<name>
+claude plugin install <name>@<name>
+```
+
+Three of them (`recall`, `standup`, `tokenlens`) are plain CLIs that read your
+transcripts, so they need no install at all:
+
+```bash
+npx github:varun642002/<name>
 ```
 
 **Hooks — installed once, then they run on their own**
