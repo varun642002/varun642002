@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1e3a8a,100:22d3ee&height=180&section=header&text=Varun%20S.&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Business%20Analytics%20and%20Product%20Engineering&descAlignY=58&descSize=18" alt="Varun S. — Business Analytics and Product Engineering" width="100%" />
 
-**Data analyst and full-stack developer.** I build analytics that people act on and the software systems behind them: SQL models, Power BI dashboards, and production web and mobile applications.
+**Data analyst and full-stack developer.** I build analytics that people act on and the software systems behind them — SQL models, Power BI dashboards, production web and mobile apps — and I publish the developer tooling that falls out of the work: **12 open-source Claude Code plugins and hooks**, all MIT and zero-dependency.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://varun642002.github.io/varun-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun64200/)
@@ -25,13 +25,57 @@ I started in mechanical engineering, working on the brake system of a Formula St
 
 ## Open Source
 
-Tools I built for my own workflow and released because the problems are not mine alone. Free, MIT, no account and no server.
+Twelve tools for [Claude Code](https://claude.com/claude-code), built for my own
+workflow and released because the problems are not mine alone. All MIT, all
+zero-dependency Node, none of them phone home: no account, no server, nothing
+leaves your machine.
 
-| Project | What it does | |
-|---|---|---|
-| **[tinymem](https://github.com/varun642002/tinymem)** | Persistent memory for Claude Code. It writes down what you taught it about a project and hands that back at the start of the next session. Zero dependencies, plain JSONL on your own disk. | [![Stars](https://img.shields.io/github/stars/varun642002/tinymem?style=flat-square&label=%E2%98%85)](https://github.com/varun642002/tinymem) |
-| **[lean-workflow](https://github.com/varun642002/lean-workflow)** | Ten token-lean agents and six workflow skills for Claude Code — plan, build, debug, test, review, secure and ship — each with a hard limit on what it reads and how much it reports. | [![Stars](https://img.shields.io/github/stars/varun642002/lean-workflow?style=flat-square&label=%E2%98%85)](https://github.com/varun642002/lean-workflow) |
-| **[erp-starter-kit](https://github.com/varun642002/erp-starter-kit)** | A complete multi-branch ERP base: sales, stock, invoices, cash book, service, payroll and WhatsApp. React, TypeScript, Express, PostgreSQL and Firebase. Fork it and build your own. | [![Stars](https://img.shields.io/github/stars/varun642002/erp-starter-kit?style=flat-square&label=%E2%98%85)](https://github.com/varun642002/erp-starter-kit) |
+```bash
+claude plugin marketplace add varun642002/<name>
+```
+
+**Hooks — installed once, then they run on their own**
+
+| | What it does |
+|---|---|
+| **[secretguard](https://github.com/varun642002/secretguard)** | Stops Claude Code reading secrets into its context. Blocks `.env` files, private keys and credential-shaped content *before* they reach the transcript — a secret in the context window is a secret in somebody's logs. |
+| **[blastradius](https://github.com/varun642002/blastradius)** | Says what a change is about to reach. Warns before wide or sensitive edits, and never blocks. |
+| **[testgate](https://github.com/varun642002/testgate)** | Never close a session on a red build. Runs the project's own type check and tests after any session that edited files. |
+
+**Memory — so the next session starts knowing what the last one learned**
+
+| | What it does |
+|---|---|
+| **[tinymem](https://github.com/varun642002/tinymem)** | Persistent project memory. Writes down what you taught it, hands it back at the next session start. Plain JSONL on your own disk. |
+| **[recall](https://github.com/varun642002/recall)** | `grep` across every session you have ever had. Local full-text search over your transcripts. |
+
+**Where the time and the tokens actually went**
+
+| | What it does |
+|---|---|
+| **[tokenlens](https://github.com/varun642002/tokenlens)** | Token and cost analysis of your transcripts. Answers "why was that session expensive?" |
+| **[standup](https://github.com/varun642002/standup)** | Builds your standup update from your git commits and your sessions. |
+
+**Getting a project to run, and keeping it documented**
+
+| | What it does |
+|---|---|
+| **[envdoctor](https://github.com/varun642002/envdoctor)** | Can this project actually run here? Checks runtime, package manager, dependencies, env var *names*, ports and git identity — and prints the command for whatever is missing. |
+| **[claudemd-init](https://github.com/varun642002/claudemd-init)** | Writes a `CLAUDE.md` from what is actually in the repository. States only what it observed, with evidence for every claim. |
+| **[prompt-kit](https://github.com/varun642002/prompt-kit)** | A shared, reviewed library of slash commands — scaffold a plugin repo your team installs, and lint the commands like source. |
+
+**Agents, and the ecosystem around them**
+
+| | What it does |
+|---|---|
+| **[lean-workflow](https://github.com/varun642002/lean-workflow)** | Ten token-lean agents and six workflow skills — plan, build, debug, test, review, secure, ship — each with a hard limit on what it reads and how much it reports. |
+| **[claude-plugin-index](https://github.com/varun642002/claude-plugin-index)** | What the published plugins actually look like. A weekly, reproducible health report run with Claude Code's own validator. |
+
+And one that is not a developer tool at all:
+
+| | What it does |
+|---|---|
+| **[erp-starter-kit](https://github.com/varun642002/erp-starter-kit)** | A complete multi-branch ERP base — sales, stock, invoices, cash book, service, payroll, WhatsApp. React, TypeScript, Express, PostgreSQL, Firebase. Fork it and build your own. |
 
 ---
 
@@ -137,7 +181,7 @@ A Power BI dashboard analyzing employee demographics, workforce distribution, at
 flowchart LR
     A["Data and BI<br/>Power BI, SQL, DAX<br/>Jul 2026"] --> B["Full-stack product<br/>IGNYT Coach<br/>Jul - Aug 2026"]
     B --> C["Mobile and portfolio<br/>Swift, HealthKit<br/>Aug - Sep 2026"]
-    C --> D["Developer tooling<br/>tinymem, lean-workflow<br/>Nov 2026"]
+    C --> D["Developer tooling<br/>12 Claude Code tools<br/>Nov 2026"]
     D -.-> E["Next<br/>Scale IGNYT, deepen backend"]
 
     style A fill:#0f2027,stroke:#22d3ee,color:#ffffff
